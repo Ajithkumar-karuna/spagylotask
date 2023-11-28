@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+img{
+    width: 100%;
+  max-width: 400px;
+  height: auto;
+}
+.gradient{
+    background-image: linear-gradient(rgb(0rgb(0, 255, 98)255), yellow);
+}
